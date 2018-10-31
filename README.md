@@ -1,9 +1,6 @@
-# rdkit-preprocess
-
+# ハンズオン: AWS Batch と SageMaker を利用した化合物溶解度予測ワークフローの構築
 - AWS ブログに掲載されている，[化合物溶解度予測ワークフロー](https://aws.amazon.com/jp/blogs/news/build-an-online-compound-solubility-prediction-workflow-with-aws-batch-and-amazon-sagemaker/) を実行するための手順書です
 - 元のブログでは説明や記述が足りていないため，こちらで実行可能な形にまとめました
-
-# ハンズオン: AWS Batch と SageMaker を利用した化合物溶解度予測ワークフローの構築
 
 ## ハンズオン概要
 
